@@ -1,0 +1,13 @@
+**Product**	**Purchase Link**
+Magician Chassis	https://www.amazon.com/Karlsson-Robotics-SX10825-Magician-Chassis/dp/B007R9U5CU/
+Raspberry Pi 3 Model B	https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8
+16GB Class 10 MicroSD Card	https://www.amazon.com/SanDisk-microSDHC-Standard-Packaging-SDSQUNC-032G-GN6MA/dp/B010Q57T02/
+Generic Raspberry Pi Lipo Battery Power Pack Board	https://www.amazon.com/GAOPAN-Lithium-Battery-Expansion-Raspberry/dp/B07QWRN4V6/
+Adafruit Powerboost 1000c Board	https://www.amazon.com/Adafruit-PowerBoost-1000-Charger-Rechargeable/dp/B01BMRBTH2/
+Lipo Battery for the Powerboost	https://www.amazon.com/1800mAh-battery-Rechargeable-Lithium-Connector/dp/B07BTTKM8H/
+Breadboard (1 piece)	https://www.amazon.com/Points-Solderless-Bread-Board-Breadboard/dp/B07JXYBT7N/
+Wires	https://www.amazon.com/LANDZO-Multicolored-Breadboard-Raspberry-Arduino/dp/B01IB7UOFE/
+H-Bridge L9110 DC/Stepper 2 Way Motor Driver Module	https://www.amazon.com/Super-H-Bridge-Driver-Module-Arduino/dp/B00NN6EB3U/
+Arduino UNO Board	https://www.amazon.com/KAILEDI-Development-Microcontroller-ATmega328-ATMEGA16U2/dp/B07V9VGXFS/
+Raspberry Pi Camera Module	https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/
+Micro USB Breakout Board	https://www.amazon.com/Adafruit-Micro-B-Breakout-Board-ADA1833/dp/B00KLDPZVU/
