@@ -1,0 +1,2 @@
+roscd duckietown_description;
+cp -rf meshes ~/catkin_ws/src/rosbots_description/
